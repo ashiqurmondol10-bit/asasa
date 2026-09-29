@@ -1,0 +1,6 @@
+{
+  "name": "TelePay Admin - Telegram Payment Screenshot Management System",
+  "description": "Production-ready Telegram Payment Screenshot Management System with Dexie IndexedDB, Telegram Bot API webhook, secure image proxy, and financial accounting reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
